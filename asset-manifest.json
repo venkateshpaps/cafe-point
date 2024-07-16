@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cf900beb.css",
+    "main.js": "./static/js/main.2c643a8c.js",
+    "static/media/orange.jpg": "./static/media/orange.028d274a8bb39d98b6bf.jpg",
+    "static/media/empty_cart.jfif": "./static/media/empty_cart.ece95368a87ac88907bc.jfif",
+    "index.html": "./index.html",
+    "main.cf900beb.css.map": "./static/css/main.cf900beb.css.map",
+    "main.2c643a8c.js.map": "./static/js/main.2c643a8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf900beb.css",
+    "static/js/main.2c643a8c.js"
+  ]
+}
