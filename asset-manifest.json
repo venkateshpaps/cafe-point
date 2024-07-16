@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.cf900beb.css",
-    "main.js": "./static/js/main.2c643a8c.js",
-    "static/media/orange.jpg": "./static/media/orange.028d274a8bb39d98b6bf.jpg",
-    "static/media/empty_cart.jfif": "./static/media/empty_cart.ece95368a87ac88907bc.jfif",
-    "index.html": "./index.html",
-    "main.cf900beb.css.map": "./static/css/main.cf900beb.css.map",
-    "main.2c643a8c.js.map": "./static/js/main.2c643a8c.js.map"
+    "main.css": "/cafe-point/static/css/main.cf900beb.css",
+    "main.js": "/cafe-point/static/js/main.b0f2a7a0.js",
+    "static/media/orange.jpg": "/cafe-point/static/media/orange.028d274a8bb39d98b6bf.jpg",
+    "static/media/empty_cart.jfif": "/cafe-point/static/media/empty_cart.ece95368a87ac88907bc.jfif",
+    "index.html": "/cafe-point/index.html",
+    "main.cf900beb.css.map": "/cafe-point/static/css/main.cf900beb.css.map",
+    "main.b0f2a7a0.js.map": "/cafe-point/static/js/main.b0f2a7a0.js.map"
   },
   "entrypoints": [
     "static/css/main.cf900beb.css",
-    "static/js/main.2c643a8c.js"
+    "static/js/main.b0f2a7a0.js"
   ]
 }
