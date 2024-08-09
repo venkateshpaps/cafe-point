@@ -32,7 +32,7 @@ jobs:
 
     - name: Deploy with gh-pages
       run: |
-        git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/venkateshpaps/cafe-point.git
+        git remote set-url origin https://git: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@github.com/venkateshpaps/cafe-point.git
         npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
